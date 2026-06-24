@@ -4,10 +4,19 @@ A fan-made, unofficial Codex pet inspired by Mihari Oyama from ONIMAI.
 
 This is a non-commercial fan project for personal customization of the Codex pet overlay.
 
+## Preview
+
+These GIFs are generated from the final `spritesheet.webp`.
+
+| Action | Idle | Waving | Running | Waiting | Review |
+| --- | --- | --- | --- | --- | --- |
+| Preview | <img src="previews/idle.gif" alt="Mihari idle animation" width="120"> | <img src="previews/waving.gif" alt="Mihari waving animation" width="120"> | <img src="previews/running.gif" alt="Mihari running animation" width="120"> | <img src="previews/waiting.gif" alt="Mihari waiting animation" width="120"> | <img src="previews/review.gif" alt="Mihari review animation" width="120"> |
+
 ## Files
 
 * `pet.json`
 * `spritesheet.webp`
+* `previews/*.gif`
 
 ## Disclaimer
 
